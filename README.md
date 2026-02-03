@@ -55,7 +55,6 @@ The system uses an **ultrasonic sensor** to detect a person approaching the dust
 
 ## 📂 Project Structure
 
-```text
 Smart-Dustbin/
 │
 ├── code/
