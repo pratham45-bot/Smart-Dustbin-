@@ -94,7 +94,7 @@ This project is open-source and intended for **educational and research purposes
 ---
 
 ## 👨‍💻 Author
-**Prathamesh Mohitr**  
-Electrical Engineering Student  
+**Prathamesh Mohite**  
+FY Electrical Engineering Student  
 Interest Areas: Embedded Systems, IoT, Electric Vehicles
 
